@@ -1,0 +1,31 @@
+{
+    "server": {
+        "port": 8006
+    },
+    "app": {
+        "apiPrefix" : "",
+        "url": "http://localhost"
+    },
+    "credentials": {
+        "apikey": "VkaCM/j5Rggv/AoOvvWGI8crqOsdDCvuqQ0lLSI14nI=", 
+        "appId": "cs-0136af73-f40a-5490-979c-69dac119deed", 
+        "st-529d5dc4-cbb2-54bd-ae1a-999f4fca3ad0":{
+            "apikey": "VkaCM/j5Rggv/AoOvvWGI8crqOsdDCvuqQ0lLSI14nI=",
+            "appId": "cs-0136af73-f40a-5490-979c-69dac119deed"
+        }
+    },
+    "redis": {
+        "options": {
+            "host": "localhost",
+            "port": 6379
+        },
+        "available": false
+    },
+    "examples" : {
+        "mockServicesHost"  : "http://localhost:8004"
+    },
+    "liveagentlicense": "8947569",
+    "supportsMessageAck": true,
+    "languages":["en","de"],
+    "logpath": "/var/www/logs/zdbotkit.log"
+}
