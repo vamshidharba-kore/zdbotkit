@@ -3,16 +3,12 @@
         "port": 8006
     },
     "app": {
-        "apiPrefix" : "",
+        "apiPrefix" : "/zdbotkit",
         "url": "http://localhost"
     },
     "credentials": {
-        "apikey": "VkaCM/j5Rggv/AoOvvWGI8crqOsdDCvuqQ0lLSI14nI=", 
-        "appId": "cs-0136af73-f40a-5490-979c-69dac119deed", 
-        "st-529d5dc4-cbb2-54bd-ae1a-999f4fca3ad0":{
-            "apikey": "VkaCM/j5Rggv/AoOvvWGI8crqOsdDCvuqQ0lLSI14nI=",
-            "appId": "cs-0136af73-f40a-5490-979c-69dac119deed"
-        }
+        "apikey": "GhCJ5jDZ9+3GtRCiEghurhqQVDQfSn0okPNThsuiQfE=", 
+        "appId": "cs-4d21d2b5-8816-5284-8533-c6f4a4efdd2b"
     },
     "redis": {
         "options": {
